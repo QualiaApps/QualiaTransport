@@ -7,13 +7,13 @@
 提供两台设备之间传输一段字节的方案：**二维码**（一张装不下就拆成多张）
 与**局域网**（先在同一网段上互相发现，再进行传输）。
 
-[![License](https://img.shields.io/github/license/Qualia2FA/QualiaTransport?label=License)][License]
-[![Releases](https://img.shields.io/github/downloads/Qualia2FA/QualiaTransport/total?logo=github&label=Downloads)][Releases]
+[![License](https://img.shields.io/github/license/QualiaApps/QualiaTransport?label=License)][License]
+[![Releases](https://img.shields.io/github/downloads/QualiaApps/QualiaTransport/total?logo=github&label=Downloads)][Releases]
 [![crates.io](https://img.shields.io/crates/d/qualia-transport?logo=crates.io&label=crates.io+Downloads)][crates.io]
 
 [License]: LICENSE
 
-[Releases]: https://github.com/Qualia2FA/QualiaTransport/releases
+[Releases]: https://github.com/QualiaApps/QualiaTransport/releases
 
 [crates.io]: https://crates.io/crates/qualia-transport
 

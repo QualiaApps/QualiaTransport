@@ -2,19 +2,19 @@
 
 # QualiaTransport
 
-[简体中文](https://github.com/Qualia2FA/QualiaTransport/blob/master/README.md) | English
+[简体中文](https://github.com/QualiaApps/QualiaTransport/blob/master/README.md) | English
 
 The channels that move a short run of bytes between two devices: **QR codes** (split across
 several codes when one is not enough) and the **LAN** (find each other on the same segment
 first, then transfer).
 
-[![License](https://img.shields.io/github/license/Qualia2FA/QualiaTransport?label=License)][License]
-[![Releases](https://img.shields.io/github/downloads/Qualia2FA/QualiaTransport/total?logo=github&label=Downloads)][Releases]
+[![License](https://img.shields.io/github/license/QualiaApps/QualiaTransport?label=License)][License]
+[![Releases](https://img.shields.io/github/downloads/QualiaApps/QualiaTransport/total?logo=github&label=Downloads)][Releases]
 [![crates.io](https://img.shields.io/crates/d/qualia-transport?logo=crates.io&label=crates.io+Downloads)][crates.io]
 
-[License]: https://github.com/Qualia2FA/QualiaTransport/blob/master/LICENSE
+[License]: https://github.com/QualiaApps/QualiaTransport/blob/master/LICENSE
 
-[Releases]: https://github.com/Qualia2FA/QualiaTransport/releases
+[Releases]: https://github.com/QualiaApps/QualiaTransport/releases
 
 [crates.io]: https://crates.io/crates/qualia-transport
 
@@ -350,7 +350,7 @@ pass silently.
 
 ## License
 
-LGPL-3.0-or-later; see [LICENSE](https://github.com/Qualia2FA/QualiaTransport/blob/master/LICENSE) and [COPYING.LESSER](https://github.com/Qualia2FA/QualiaTransport/blob/master/COPYING.LESSER).
+LGPL-3.0-or-later; see [LICENSE](https://github.com/QualiaApps/QualiaTransport/blob/master/LICENSE) and [COPYING.LESSER](https://github.com/QualiaApps/QualiaTransport/blob/master/COPYING.LESSER).
 
 LGPL rather than MIT/Apache is deliberate: this library parses attacker-controlled input
 (scanned text, imported images, datagrams from anyone on the segment), so any modification
